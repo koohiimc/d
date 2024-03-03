@@ -8,15 +8,15 @@ module.exports = {
   /*
     Title used for pages, footer, pages, etc.
   */
-  title: "DLinks",
+  title: "Disinv",
   
   /*
     Autor used in footer.
   */
-  author: "Anidox",
+  author: "Koohii",
   
   /*
     Description used for metadata, etc.
   */
-  description: "A self-hostable Discord URL shortener."
+  description: "A free, and advanced link shortner for your discord server, discord bot invite and templates."
 };
